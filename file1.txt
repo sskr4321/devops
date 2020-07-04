@@ -1,6 +1,2 @@
 <<<<<<< HEAD
 this is from test branch
-=======
-
-thsi from dev branch
->>>>>>> dev
